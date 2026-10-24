@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "windows": {
+    "version": "2.1.0",
+    "url": "downloads/GitHubSync-Setup.exe",
+    "sha256": "86ebe86e4453a0e219dfebbb5cb298691c9a9e369c9577887d5c143adc6c84d3",
+    "notes": "Загрузка файлов на GitHub, проверка обновлений и более мягкий современный интерфейс."
+  },
+  "android": {
+    "version": "2.1.0",
+    "versionCode": 3,
+    "url": "downloads/GitHubSync-Remote.apk",
+    "sha256": "091604c81efb73e79e257f19b4b849ff40b31cc67fc6b6d2a10bbf0423bfdf34",
+    "notes": "Проверка обновлений, настройки адреса сайта и скруглённые элементы интерфейса."
+  }
+}
